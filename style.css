@@ -1,0 +1,11 @@
+*{
+ margin: 1px;
+ padding:1px;
+font-family:Century Gothic;
+
+
+strong ul{
+ float:right ;
+list-style-type:none;
+margin-top:25px;
+}
